@@ -6,9 +6,9 @@
     <title>Jeff Tuche</title>
     <link rel="stylesheet" media="screen and (min-width: 1025px)" href="css/index.css">
     <link rel="stylesheet" media="screen and (min-width: 1025px)" href="css/header.css">
-    <link rel="stylesheet" media="screen and (min-width: 1025px)" href="css/footer.css">
+    <link rel="stylesheet" href="css/footer.css">
     <link rel="stylesheet" media="screen and (max-width: 600px)" href="css/small.css">
-    <script src="script.js"></script>
+    <link rel="stylesheet" media="screen and (max-width: 600px)" href="css/burgerMenu.css">
 </head>
 <body>
 <section class="secondpage">
