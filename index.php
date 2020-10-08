@@ -11,6 +11,7 @@
     <link rel="stylesheet" media="screen and (min-width: 1025px)" href="navbar_footer_CSS/header.css">
     <link rel="stylesheet" media="screen and (max-width: 1024px)" href="navbar_footer_CSS/burgerMenu.css">
     <link rel="stylesheet" href="navbar_footer_CSS/footer.css">
+    <script src="script.js"></script>
 </head>
 <body>
 <section class="first">
