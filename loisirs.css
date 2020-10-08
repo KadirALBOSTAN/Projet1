@@ -3,6 +3,11 @@ body{
     background-color: #212121;
     font-family: "Gill Sans", sans-serif;
 }
+
+main{
+    padding-left: 4vw;
+}
+
 h1{
     padding-top: 5vw;
     margin-right: 5vw;
@@ -14,7 +19,14 @@ h1{
 figcaption{
     margin-top: 2vw;
     font-size: 2vw;
+    text-decoration: underline goldenrod;
 }
+
+figcaption a{
+    text-decoration: underline goldenrod;
+    color: white;
+}
+
 .interet {
     display: inline-table;
     flex-flow: row wrap;
@@ -50,4 +62,17 @@ a span{
 a:hover span, a:focus span{
     opacity :1;
     transform:scale(1) rotate(0);
+}
+
+@media screen and (max-width: 1024px){
+    main{
+        padding-left: 12vw;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    figcaption a {
+        text-decoration: underline goldenrod;
+        color: white;
+    }
 }
