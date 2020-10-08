@@ -4,10 +4,6 @@ body{
     font-family: "Gill Sans", sans-serif;
 }
 
-main{
-    padding-left: 4vw;
-}
-
 h1{
     padding-top: 5vw;
     margin-right: 5vw;
@@ -64,9 +60,19 @@ a:hover span, a:focus span{
     transform:scale(1) rotate(0);
 }
 
+main{
+    padding-left: 7vw;
+}
+
 @media screen and (max-width: 1024px){
     main{
-        padding-left: 12vw;
+        padding-left: 14vw;
+    }
+}
+
+@media screen and (max-width: 600px){
+    main{
+        padding-left: 25vw;
     }
 }
 
