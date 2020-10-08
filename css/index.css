@@ -1,0 +1,84 @@
+/*BODY*/
+body{
+    color: white;
+    font-family: "Gill Sans", sans-serif;
+}
+
+main{
+    margin-bottom: 200px;
+}
+
+.name {
+    -webkit-text-stroke: 2px black; /*contour du texte*/
+    text-shadow: 2px 2px 3px black; /*Ombrage du texte*/
+    padding-top: 3%;
+    text-align: center;
+    font-size:8vw;
+    margin-bottom: 0;
+}
+
+video{
+    margin-left: 28%;
+    width: 45vw;
+    height: 25vw;
+}
+/*SECTION*/
+.first {
+    position: absolute;
+    left: 0;
+    top: 0;
+    background-image: url("../img/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+/*DEUXIEME PAGE*/
+.secondpage{
+    background-color: #212121;
+    position: absolute;
+    left: 0;
+    top: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+.title{
+    text-decoration: underline goldenrod;
+}
+
+.title,
+.descri{
+    padding-left: 30vw;
+    padding-right: 20vw;
+}
+
+.descri{
+    color: #9e9e9e;
+}
+
+.coordo{
+    color: #9e9e9e;
+    padding-left: 30vw;
+    padding-right: 20vw;
+    font-size: 1.2vw;
+}
+
+.colonne{
+    text-shadow: 2px 2px 3px black; /*Ombrage du texte*/
+    padding-top: 3vw;
+    font-size: 2vw;
+}
+
+.logo{
+    position: absolute;
+    padding-top: 3vw;
+    padding-left: 5vw;
+    width: 20vw;
+    height: 11vw;
+}
+
+
+
