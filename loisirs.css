@@ -1,0 +1,84 @@
+body{
+    text-shadow: 2px 2px 3px black; /*Ombrage du texte*/
+    background-color: #212121;
+    font-family: "Gill Sans", sans-serif;
+}
+
+h1{
+    padding-top: 5vw;
+    margin-right: 5vw;
+    font-size: 3vw;
+    text-align: center;
+    text-decoration: underline goldenrod;
+    color: white;
+}
+figcaption{
+    margin-top: 2vw;
+    font-size: 2vw;
+    text-decoration: underline goldenrod;
+}
+
+figcaption a{
+    text-decoration: underline goldenrod;
+    color: white;
+}
+
+.interet {
+    display: inline-table;
+    flex-flow: row wrap;
+    align-items: center;
+    margin-bottom: 1vw;
+    margin-left: 5vw;
+}
+
+.interet img{
+    width: 150px;
+    height: 150px;
+    border-radius: 55px;
+    box-shadow: 8px 3px 5px dimgray;
+}
+
+.interet a{
+    font-size: 80%;
+}
+
+a span{
+    position:absolute;
+    margin-top:50px;
+    margin-right:10px;
+    color: white;
+    background: #2B2B2B;
+    padding:1px;
+    border-radius:30px;
+    box-shadow:4px 5px 3px goldenrod;
+    transform:scale(0) rotate(-12deg);
+    transition:all .25s;
+    opacity:0;
+}
+a:hover span, a:focus span{
+    opacity :1;
+    transform:scale(1) rotate(0);
+}
+
+main{
+    padding-left: 7vw;
+}
+
+@media screen and (max-width: 1024px){
+    main{
+        padding-left: 17vw;
+    }
+}
+
+@media screen and (max-width: 600px){
+    main{
+        padding-left: 21vw;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    figcaption a {
+        text-decoration: underline goldenrod;
+        color: white;
+    }
+}

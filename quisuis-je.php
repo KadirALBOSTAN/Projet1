@@ -11,7 +11,6 @@
     <link rel="stylesheet" media="screen and (min-width: 1025px)" href="navbar_footer_CSS/header.css">
     <link rel="stylesheet" media="screen and (max-width: 1024px)" href="navbar_footer_CSS/burgerMenu.css">
     <link rel="stylesheet" href="navbar_footer_CSS/footer.css">
-    <script src="script.js"></script>
 </head>
 <body>
 <section class="secondpage">
@@ -19,7 +18,7 @@
     <main class="colonne">
         <img class="logo" src="img/jeff.png">
         <h1 class="title">QUI SUIS-JE?</h1>
-        <p class="descri">Et moi, c'est Tuche, avec un T.
+        <p class="descri">C'est Tuche, avec un T.
             Comme T'es là. T'es là, t'es là ou t'es pas là ?
             T'es pas là ? Ben où c'est qu't'es ? Où c'est qu't'es ? T'es pas là ?
             T'es pas là ? Où c'est qu't'es ? Ah, t'es là !
