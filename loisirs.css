@@ -66,13 +66,13 @@ main{
 
 @media screen and (max-width: 1024px){
     main{
-        padding-left: 14vw;
+        padding-left: 17vw;
     }
 }
 
 @media screen and (max-width: 600px){
     main{
-        padding-left: 25vw;
+        padding-left: 21vw;
     }
 }
 
