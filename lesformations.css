@@ -23,6 +23,7 @@ p {
 }
 
 h3 {
+    text-decoration: underline goldenrod;
     color: #fafafa;
     font-size: 30px;
 }
