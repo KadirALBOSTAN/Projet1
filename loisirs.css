@@ -1,0 +1,52 @@
+body{
+    background-color: #dcdcdc;
+}
+h1{
+    font-size: 80px;
+    text-align: center;
+    text-decoration-line: underline;
+}
+figcaption{
+    margin-top: 20px;
+    font-size: 30px;
+    font-family: aakar;
+}
+.interet {
+    display: inline-table;
+    flex-flow: row wrap;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-left: 80px;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    animation-direction: reverse;
+}
+
+.interet img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50px;
+    box-shadow: 10px 5px 5px #000;
+}
+a{
+    color:#000000;
+    font-size: 30px;
+}
+a span{
+    position:absolute;
+    margin-top:50px;
+    margin-right:10px;
+    color:#09c;
+    background:rgba(0,0,0,.9);
+    padding:1px;
+    border-radius:3px;
+    box-shadow:0 0 2px rgba(0,0,0,.5);
+    transform:scale(0) rotate(-12deg);
+    transition:all .25s;
+    opacity:0;
+}
+a:hover span, a:focus span{
+     opacity :1;
+    transform:scale(1) rotate(0);
+}
