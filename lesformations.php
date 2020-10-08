@@ -26,8 +26,8 @@
     </div>
 
     <div class="exp-bac">
-        <h3>BAC PRO commerce spécialité Frites</h3>
-            <p class="date">2004-2007</p><br>
+        <h3>CAP VENTE spécialité Frites</h3>
+            <p class="date">2004-2005</p><br>
             <p>Non obtenu<br>
             Lycée Sergio Garcia Zorro, Bouzolles<br>
             Après le brevet, je me lance dans l'obtention du baccalauréat qui se termine sans succès.</p>
