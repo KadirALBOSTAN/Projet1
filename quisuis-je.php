@@ -18,7 +18,7 @@
     <main class="colonne">
         <img class="logo" src="img/jeff.png">
         <h1 class="title">QUI SUIS-JE?</h1>
-        <p class="descri">Et moi, c'est Tuche, avec un T.
+        <p class="descri">C'est Tuche, avec un T.
             Comme T'es là. T'es là, t'es là ou t'es pas là ?
             T'es pas là ? Ben où c'est qu't'es ? Où c'est qu't'es ? T'es pas là ?
             T'es pas là ? Où c'est qu't'es ? Ah, t'es là !
