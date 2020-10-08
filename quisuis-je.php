@@ -26,9 +26,9 @@
             </p>
         <h1 class="title">CONTACT</h1>
         <p class="coordo">Jeff Tuche</p>
-        <p class="coordo">1600 Amphitheatre Parkway</p>
-        <p class="coordo">Bouzolles, CA 94043 US</p>
-        <p class="coordo">06 15 00 00 00 00</p>
+        <p class="coordo">5 route de Rocquigny</p>
+        <p class="coordo">Bouzolles, 59219 </p>
+        <p class="coordo">06 15 03 45 67 86</p>
     </main>
 </section>
     <?php include('footer.php'); ?>
