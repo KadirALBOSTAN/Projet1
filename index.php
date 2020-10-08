@@ -6,23 +6,20 @@
     <title>Jeff Tuche</title>
     <!-- STYLE -->
     <link rel="stylesheet" media="screen and (min-width: 1025px)" href="css/index.css">
-    <link rel="stylesheet" media="screen and (max-width: 600px)" href="css/small.css">
+    <link rel="stylesheet" media="screen and (max-width: 1024px)" href="css/small.css">
     <!-- NAVBAR RESPONSIVE & FOOTER-->
-    <link rel="stylesheet" media="screen and (min-width: 1025px)" href="css/header.css">
-    <link rel="stylesheet" media="screen and (max-width: 600px)" href="css/burgerMenu.css">
-    <link rel="stylesheet" href="css/footer.css">
+    <link rel="stylesheet" media="screen and (min-width: 1025px)" href="navbar_footer_CSS/header.css">
+    <link rel="stylesheet" media="screen and (max-width: 1024px)" href="navbar_footer_CSS/burgerMenu.css">
+    <link rel="stylesheet" href="navbar_footer_CSS/footer.css">
 </head>
 <body>
 <section class="first">
     <?php include('header.php'); ?>
 <main>
     <h1 class="name">Jeff Tuche</h1>
-    <p class="intro">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        Aliquam sit amet mauris id ligula ultricies aliquet.
-        Morbi nec lacus in erat varius aliquet non eu eros.
-        Aliquam velit nibh, gravida ut consequat et, egestas at tortor.
-        Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-    </p>
+    <video controls autoplay>
+        <source src="./video/tuche.mp4" type="video/mp4">
+    </video>
 </main>
 </section>
     <?php include('footer.php'); ?>
