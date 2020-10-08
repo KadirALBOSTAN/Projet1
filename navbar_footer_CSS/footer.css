@@ -1,0 +1,41 @@
+/*FOOTER*/
+footer{
+    position: fixed;
+    width: 100%;
+    height: 12%;
+    background-color: #303030;
+    bottom: 0;
+    right: 0;
+    text-align: center;
+    padding-bottom: 1vw;
+}
+
+ul{
+    padding-left: 0;
+}
+
+footer li{
+    list-style: none;
+    display: inline;
+}
+
+footer li a img{
+    width: 70px;
+    height: 70px;
+}
+/*changement icone*/
+.facebook .noir:hover{
+    content: url('../img/fb-blanc.png');
+}
+
+.twitter .noir:hover{
+    content: url('../img/twitter-blanc.png');
+}
+
+.linkedin .noir:hover{
+    content: url('../img/linkedin-blanc.png');
+}
+
+.instagram .noir:hover{
+    content: url('../img/insta-blanc.png');
+}

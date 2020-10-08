@@ -1,0 +1,30 @@
+/*HEADER*/
+header{
+    width: 100%;
+    padding-top: 0px;
+}
+
+.navbar{
+    text-align: center;
+}
+
+header nav li{
+    text-shadow: 2px 2px 3px black; /*Ombrage du texte*/
+    list-style: none;
+    display: inline;
+    padding-left: 2%;
+    font-size:1.2vw;
+}
+
+a:link {
+    text-decoration: none;
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+a:active {
+    color: #ff7813;
+}
