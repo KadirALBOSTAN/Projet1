@@ -8,13 +8,13 @@ body {
 h1 {
     color: #ffffff;
     font-size: 2vw;
-    padding-top: 4.5vw;
+    padding-top: 12vw;
     text-decoration: underline goldenrod;
     margin-left: 1.5vw;
 }
 p, h3 {
     padding-top: 1.8vw;
-    padding-left: 40vw;
+    padding-left: 35vw;
 }
 
 p {
@@ -30,6 +30,7 @@ h3 {
 .date{
     color: goldenrod;
     font-size: 18px;
+    margin-bottom: 0px;
 }
 
 @media screen and (max-width: 600px) {
