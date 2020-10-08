@@ -19,9 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="176cc444-93ed-45ed-a948-cc6bfb7d635f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="10a4f478-d151-4ce6-80f9-ffa47df729c7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loisirs" beforeDir="false" afterPath="$PROJECT_DIR$/burger.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loisirs.PHP" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loisirs.css" beforeDir="false" afterPath="$PROJECT_DIR$/loisirs.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loisirs2.php" beforeDir="false" afterPath="$PROJECT_DIR$/loisirs.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,14 +40,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1iDq2pg6nVEUuZIx88PAZAiHopg" />
+  <component name="ProjectId" id="1iXc9qwSvmWMeBeYmDnQ8B5MGoJ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -50,21 +56,24 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="176cc444-93ed-45ed-a948-cc6bfb7d635f" name="Default Changelist" comment="" />
-      <created>1601452305728</created>
+      <changelist id="10a4f478-d151-4ce6-80f9-ffa47df729c7" name="Default Changelist" comment="" />
+      <created>1602057228470</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1601452305728</updated>
-      <workItem from="1601452308023" duration="542000" />
-      <workItem from="1601452868233" duration="28375000" />
-      <workItem from="1601540770017" duration="10880000" />
+      <updated>1602057228470</updated>
+      <workItem from="1602057229673" duration="17039000" />
     </task>
     <servers />
   </component>
@@ -81,20 +90,27 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="543" y="264" width="571" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601556949702">
+    <state x="543" y="264" width="571" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602065762425">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state x="543" y="264" width="571" height="396" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1533.873@67.27.1533.873" timestamp="1601556949702" />
-    <state x="611" y="206" width="424" height="513" key="FileChooserDialogImpl" timestamp="1601539973545">
+    <state x="543" y="264" width="571" height="396" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1533.873@67.27.1533.873" timestamp="1602065762425" />
+    <state x="566" y="211" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602065539360">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state x="611" y="206" width="424" height="513" key="FileChooserDialogImpl/67.27.1533.873@67.27.1533.873" timestamp="1601539973545" />
-    <state x="629" y="388" width="399" height="149" key="NewPhpFileDialog" timestamp="1601458355590">
+    <state x="566" y="211" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1533.873@67.27.1533.873" timestamp="1602065539360" />
+    <state x="611" y="206" width="424" height="513" key="FileChooserDialogImpl" timestamp="1602145180541">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state x="629" y="388" width="399" height="149" key="NewPhpFileDialog/67.27.1533.873@67.27.1533.873" timestamp="1601458355590" />
+    <state x="611" y="206" width="424" height="513" key="FileChooserDialogImpl/67.27.1533.873@67.27.1533.873" timestamp="1602145180541" />
+    <state x="629" y="388" width="399" height="149" key="NewPhpFileDialog" timestamp="1602065910910">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="629" y="388" width="399" height="149" key="NewPhpFileDialog/67.27.1533.873@67.27.1533.873" timestamp="1602065910910" />
+    <state x="497" y="208" key="run.anything.popup" timestamp="1602073282558">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="497" y="208" key="run.anything.popup/67.27.1533.873@67.27.1533.873" timestamp="1602073282558" />
   </component>
 </project>

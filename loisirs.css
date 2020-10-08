@@ -1,52 +1,51 @@
 body{
-    background-color: #dcdcdc;
+    text-shadow: 2px 2px 3px black; /*Ombrage du texte*/
+    background-color: #212121;
+    font-family: "Gill Sans", sans-serif;
 }
 h1{
-    font-size: 80px;
+    padding-top: 5vw;
+    margin-right: 5vw;
+    font-size: 3vw;
     text-align: center;
-    text-decoration-line: underline;
+    text-decoration: underline goldenrod;
+    color: white;
 }
 figcaption{
-    margin-top: 20px;
-    font-size: 30px;
-    font-family: aakar;
+    margin-top: 2vw;
+    font-size: 2vw;
 }
 .interet {
     display: inline-table;
     flex-flow: row wrap;
     align-items: center;
-    margin-bottom: 20px;
-    margin-left: 80px;
-    width: 100px;
-    height: 100px;
-    position: relative;
-    animation-direction: reverse;
+    margin-bottom: 1vw;
+    margin-left: 5vw;
 }
 
 .interet img{
-    width: 200px;
-    height: 200px;
-    border-radius: 50px;
-    box-shadow: 10px 5px 5px #000;
+    width: 150px;
+    height: 150px;
+    border-radius: 55px;
+    box-shadow: 8px 3px 5px dimgray;
 }
 a{
-    color:#000000;
-    font-size: 30px;
+    font-size: 80%;
 }
 a span{
     position:absolute;
     margin-top:50px;
     margin-right:10px;
-    color:#09c;
-    background:rgba(0,0,0,.9);
+    color: white;
+    background: #2B2B2B;
     padding:1px;
-    border-radius:3px;
-    box-shadow:0 0 2px rgba(0,0,0,.5);
+    border-radius:30px;
+    box-shadow:4px 5px 3px goldenrod;
     transform:scale(0) rotate(-12deg);
     transition:all .25s;
     opacity:0;
 }
 a:hover span, a:focus span{
-     opacity :1;
+    opacity :1;
     transform:scale(1) rotate(0);
 }
