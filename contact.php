@@ -6,6 +6,10 @@
     <meta charset="UTF-8" >
         <title>Page de contacte</title>
         <link href="contact.css" media="all" rel="stylesheet" type="text/css" />
+        <!-- NAVBAR RESPONSIVE & FOOTER-->
+        <link rel="stylesheet" media="screen and (min-width: 1025px)" href="navbar_footer_CSS/header.css">
+        <link rel="stylesheet" media="screen and (max-width: 1024px)" href="navbar_footer_CSS/burgerMenu.css">
+        <link rel="stylesheet" href="navbar_footer_CSS/footer.css">
     </head>
     <body>
     <header>
@@ -22,8 +26,9 @@
         </div>
         <div class="adressetext">
             <p>Jeff Tuche</p>
-            <p>1600 Grand Hotel</p>
-            <p>Monaco, 98000</p>
+            <p>5 route de Rocquigny</p>
+            <p>Bouzolles, 59219</p>
+            <p>06 15 03 45 67 86</p>
         </div>
     </div>
     <form action="/ma-page-de-traitement" method="post">
@@ -49,6 +54,7 @@
     </form>
     <footer>
         <?php include('footer.php'); ?>
+
     </footer>
     </body>
 </html>
