@@ -29,9 +29,11 @@ figcaption{
     border-radius: 55px;
     box-shadow: 8px 3px 5px dimgray;
 }
-a{
+
+.interet a{
     font-size: 80%;
 }
+
 a span{
     position:absolute;
     margin-top:50px;
