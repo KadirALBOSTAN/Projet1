@@ -22,7 +22,8 @@ body {
 }
 
 .adressmaster {
-    text-align: right;
+    padding-top: 3vw;
+    text-align: center;
     margin-right:2px;
 }
 
@@ -37,6 +38,7 @@ body {
 
 form {
     /* Uniquement centrer le formulaire sur la page */
+    padding-top: 3vw;
     margin: 0 auto;
     width: 400px;
     /* Encadré pour voir les limites du formulaire */
