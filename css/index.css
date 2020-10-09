@@ -5,13 +5,13 @@ body{
 }
 
 main{
-    margin-bottom: 200px;
+    margin-bottom: 120px;
 }
 
 .name {
     -webkit-text-stroke: 2px black; /*contour du texte*/
     text-shadow: 2px 2px 3px black; /*Ombrage du texte*/
-    padding-top: 3%;
+    padding-top: 2%;
     text-align: center;
     font-size:8vw;
     margin-bottom: 0;
